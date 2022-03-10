@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+https://github.com/stepin654321/MiniProject_Template/tree/master/MiniProject_C/0_Certificates
